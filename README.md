@@ -1,2 +1,2 @@
 # project-management
-This s a simple project management app made using laravel and react
+This is a simple project management app made using laravel and react
